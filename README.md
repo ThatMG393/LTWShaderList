@@ -13,14 +13,13 @@ This renderer is like stated previously, "on-par with HolyGL4ES in terms of perf
 
 ## Iris compatibility
 
-> Please note that Iris requires:
-  GL_EXT_shader_texture_lod
+> Please note that Iris **requires**:
+  **GL_EXT_shader_texture_lod**
+
+> If your GPU doesn't have this extension supported, it will result in a **blank or invisible world**.
 <hr>
 
-> If your GPU doesn't have this extension supported, it will result in a blank or invisible world.
-<hr>
-
-> Some shaders might work on Optifine but not on Iris.
+> Some shaders **might work** on Optifine but not on Iris. (vice-versa)
 
 ## Indicators 
 ✅ No Bug
