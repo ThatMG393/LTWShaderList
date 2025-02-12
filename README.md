@@ -1,14 +1,14 @@
-# LTW Shader List for PojavLauncher
-## What Is PojavLauncher?
+# LTW shader list for PojavLauncher
+## What is PojavLauncher?
 [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
 
-## What Is LTW?
+## What is LTW?
 LTW is a renderer in Pojav. It's on-par with HolyGL4ES in terms of performance but LTW has good mod compatibility.
 
-## Why This List Were Created?
+## Why is this list created?
 Well, since shaders weren't mostly compatible with LTW, this list is created to list every shaders that is compatible with LTW.
 
-## Why Use LTW Instead Of Other Render Engine?
+## Why use LTW instead of other renderers?
 This renderer is like stated previously, "on-par with HolyGL4ES in terms of performance but LTW has good compatibility".
 
 ## Iris compatibility
@@ -21,16 +21,14 @@ This renderer is like stated previously, "on-par with HolyGL4ES in terms of perf
 
 > Some shaders **might work** on Optifine but not on Iris. (vice-versa)
 
+### Shader list
 ## Indicators 
 ✅ No Bug
 ⚠️ Minor Bugs
 ❗ Major Bugs
 💀 Shader not working 
 
-## Note
-This list also lists shader that has bugs, but not critical bugs.
-
-# Shader List
+## Shaders
 | Status | Shader Name | Link | Bugs | Last Checked | Tested On |
 |--------|-------------|------|------|--------------|--------|
 |⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
